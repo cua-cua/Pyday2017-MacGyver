@@ -1,0 +1,65 @@
+//Word Count
+-dictionary, split, for and if
+-string, .join, counter from collections, elif, for,  
+-regular expression and Counter from collections
+
+//Rna transcription
+-lists append, elif, .join
+-dictionary + .join
+-dictionary: maketrans, translate
+
+//Hamming
+- index
+-for + zip!, if
+- compression sum, for + zip!, 
+
+//Gigasecond
+- datetime, timedelta
+
+//Bob
+-strings + elif
+-regular expressions
+
+//Meetup
+- calendar, lambda, next, for-if
+
+//Leap
+- %, ==, if, conditions
+- compression
+
+//Difference of squares
+- mathematics
+- numeros,functions definition, sum! + range + list of compression, operations
+
+//Anagram
+- lists + if, for, string, remove!
+- lists + if, for, string, append
+- comprension list
+ 
+//Allergies
+- object, class
+- enumerate
+
+//Atbash Cipher
+- dictionary, maketrans, string, join, range, comprehension, translate
+-
+//Sum Of Multiples
+-list, argument, for , if, append and remove,
+-sum, any, if for comprehension
+-set, udpate
+- sum, any if, for juntos
+
+//Largest Series Product
+-functools reduce + series exercism, max 
+
+//Sieve
+-remove, lists, range
+- repeat, compress (itertools)
+-[]* and, enumerate
+- math or no math
+
+//Series
+- len, list, for, comprensin, range, append, raise error
+
+//Kindergarten Garden
+class, dictionary, dict, zip, sorted
