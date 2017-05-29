@@ -39,11 +39,13 @@ Diferencia entre el cuadrado de la suma (1 + 2+ ...)^2 y la suma de cuadrados (1
 
 3. Secuencia de números -> range()
 
-3. Bucle for
+4. Bucle for
 
-4. Funciones predefinidas: Sum()
+5. Funciones predefinidas: Sum()
 
-5. Listas de comprensión 
+6. Listas de comprensión 
+
+7. Generadores
 
 --- 
 
