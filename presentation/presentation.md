@@ -2,13 +2,72 @@
 % Clara Casas Castedo & Miguel Sánchez de León Peque
 % PyDay-2017
 
-# ¿Por qué Python para MacGyvers?
+¿Por qué MacGyver?
+==================
 
-## Ponte a prueba
-- General: Exercism (http://exercism.io/)
-	   Tuenti Challenge(https://contest.tuenti.net/Info/past)
-- Mathematics: Project Euler(https://projecteuler.net/about)
-- Bioinformatics: Rosalind(http://rosalind.info/problems/rna/)
+![]()
+
+---
+
+![]()
+
+---
+
+![]()
+
+
+¿Por qué Python?
+================
+
+## Razones
+
+- Sintaxis
+- Potencia
+- Comunidad
+- Ubicuidad
+
+## Sintaxis
+
+![]()
+
+- Elegante
+- Sangrado
+- PEPs
+
+## Potencia
+
+![]()
+
+- Interpretado
+- Rápido (no es broma)
+- Mágico
+- Flexible
+
+## Comunidad
+
+![]()
+
+- SO: 
+- PyPI:
+
+## Ubicuidad
+
+![]()
+
+- Web
+- Ciencia
+- Escritorio
+- Otros...
+
+
+Retos
+=====
+
+## ¡Ponte a prueba!
+- Exercism: [exercism.io](http://exercism.io/)
+- Tuenti Challenge: [contest.tuenti.net](https://contest.tuenti.net/)
+- Project Euler: [projecteuler.net](https://projecteuler.net/)
+- Rosalind: [rosalind.info](http://rosalind.info/)
 
 # Reto 1: Respuesta automática
 
