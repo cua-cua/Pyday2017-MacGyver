@@ -2,7 +2,6 @@
 * Guido van Rossum creó Python en 1989. El nombre es un homenaje a los Monty Python. 
 * lenguaje de propósito general, sirve para todo (web, juegos, cálculos científico-matemáticos, interfaces gráficas..)
 * guay para scripting y desarrollo rápido de app
-* Python 2 que acabará sobre el 2020 y python 3
 * 4 razones: sintaxis elegante y simple, poco estricto, expresivo, buena comunidad y soporte
 * Lenguaje interpretado. ¡No hay que compilar :)! -> ya está compilado, la mayoría en C ->calculadora de mano
 * No hay declaraciones de tipos, variables, parámetros o funciones
