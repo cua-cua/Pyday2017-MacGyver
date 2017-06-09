@@ -15,15 +15,7 @@
 
 ---
 
-![](./figures/clip.gif){width=80%}
-
----
-
 ![](./figures/explosion.gif){width=80%}
-
----
-
-![](./figures/escape.gif){width=80%}
 
 ---
 
